@@ -1,0 +1,11 @@
+n = input("Enter the number: ")
+n = int(n)
+counter = 0
+sum1
+= 0
+while counter <= n:
+    sum1 += counter
+    counter +=1
+    
+print(sum1)
+       
